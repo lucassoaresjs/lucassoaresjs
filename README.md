@@ -1,22 +1,6 @@
- # ->  Olá, me chamo Lucas! ☕
- # ->  Pronomes: Ele/Dele 💭
- # ->  Developer Full Stack em formação! 💻
+- 🖌 Me chamo Lucas!
+- 💻 Desenvolvedor Full-Stack em formação
+- 😄 Pronomes: Ele/Dele
 
- 
- 
- 
- 
-<!--
-**lucassoaresjs/lucassoaresjs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lucassoaresjs&bg_color=301b50&color=999999&line=9e4c98&point=d2d0d0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
