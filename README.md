@@ -1,6 +1,7 @@
  ->  Olá, me chamo Lucas! ☕
- 
- <div class="tenor-gif-embed" data-postid="26415216" data-share-method="host" data-aspect-ratio="1.0356" data-width="100%"><a href="https://tenor.com/view/peepo-comfy-gif-26415216">Peepo Comfy GIF</a>from <a href="https://tenor.com/search/peepo+comfy-gifs">Peepo Comfy GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+ ->  Pronomes: Ele/Dele 💭
+ ->  Developer Full Stack em formação! 💻
+
  
  
  
