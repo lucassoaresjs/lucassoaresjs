@@ -1,6 +1,6 @@
- ->  Olá, me chamo Lucas! ☕
- ->  Pronomes: Ele/Dele 💭
- ->  Developer Full Stack em formação! 💻
+ # ->  Olá, me chamo Lucas! ☕
+ # ->  Pronomes: Ele/Dele 💭
+ # ->  Developer Full Stack em formação! 💻
 
  
  
