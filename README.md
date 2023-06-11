@@ -1,4 +1,4 @@
-- 🖌 Me chamo Lucas!
+- 🖌 Oi, me chamo Lucas!
 - 💻 Desenvolvedor Full-Stack em formação
 - 😄 Pronomes: Ele/Dele
 
