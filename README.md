@@ -10,3 +10,5 @@ Meu nome é Lucas e sou Desenvolvedor Full-Stack em formação!!!
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassoaresjs&layout=compact&langs_count=7&theme=omni&count_private=true"/>
   ![Snake animation](https://github.com/{{lucassoaresjs}}/{{lucassoaresjs}}/blob/output/github-contribution-grid-snake.svg)
 </div>
+
+![Snake animation](https://github.com/{{lucassoaresjs}}/{{lucassoaresjs}}/blob/output/github-contribution-grid-snake.svg)
